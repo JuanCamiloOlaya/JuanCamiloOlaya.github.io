@@ -1,5 +1,5 @@
 # Economist and Data Nerd
-:earth_americas: :pushpin: Medellin, Metropolitan Area, Colombia.
+:earth_americas::pushpin: Medellin, Metropolitan Area, Colombia.
 
 
 ## Education
