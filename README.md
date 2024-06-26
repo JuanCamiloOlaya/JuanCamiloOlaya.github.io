@@ -1,4 +1,4 @@
 # A economist and data nerd
 
 ### Organizations
-QuantFinanceLab
+[Quantitative Finance Laboratory](https://github.com/QuantitativeFinanceLab)
