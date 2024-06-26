@@ -1,5 +1,5 @@
 # Economist and Data Nerd
-🌎📌 Medellin, Metropolitan Area, Colombia.
+Medellin, Metropolitan Area, Colombia.
 
 
 ## Education
