@@ -1,4 +1,8 @@
 # A economist and data nerd
 
-### Organizations
+## Education
+
+## Work Experience
+
+## Organizations
 [Quantitative Finance Laboratory](https://github.com/QuantitativeFinanceLab)
