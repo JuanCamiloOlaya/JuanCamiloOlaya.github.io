@@ -1,8 +1,11 @@
-# Economist and Data Nerd
+# About me
 Medellin, Metropolitan Area, Colombia.
 
 
 ## Education
+Master in Applied Mathematics | EAFIT University, Medellin | January 2024 – Present
+
+
 
 ## Work Experience
 
