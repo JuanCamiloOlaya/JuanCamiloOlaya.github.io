@@ -1,11 +1,11 @@
 # About me
-Medellin, Metropolitan Area, Colombia.
-
+### Medellin, Metropolitan Area, Colombia.
+### Technical Skills:
 
 ## Education
-- Master in Applied Mathematics | EAFIT University, Medellin | January 2024 – Present
+- B.S., Applied Mathematics | EAFIT University (*January 2024 – Present*)
 
-
+- B.A., Economics | EAFIT University (*January 2017 – September 2021*)
 
 ## Work Experience
 
