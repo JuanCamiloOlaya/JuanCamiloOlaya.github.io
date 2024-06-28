@@ -6,5 +6,7 @@ Medellin, Metropolitan Area, Colombia.
 
 ## Work Experience
 
+## Side Projects
+
 ## Organizations
 [Quantitative Finance Laboratory](https://github.com/QuantitativeFinanceLab)
