@@ -3,9 +3,9 @@
 ### Technical Skills:
 
 ## Education
-- B.S., Applied Mathematics | EAFIT University (*January 2024 – Present*)
+- B.S., Applied Mathematics. EAFIT University (*January 2024 – Present*)
 
-- B.A., Economics | EAFIT University (*January 2017 – September 2021*)
+- B.A., Economics. EAFIT University (*January 2017 – September 2021*)
 
 ## Work Experience
 
