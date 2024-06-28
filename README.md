@@ -21,4 +21,6 @@ Juan Camilo is
 ## Side Projects
 
 ## Organizations
-[Quantitative Finance Laboratory](https://github.com/QuantitativeFinanceLab)
+- [Quantitative Finance Laboratory](https://github.com/QuantitativeFinanceLab)
+
+The Quantitative Finance Laboratory is a research and analysis facility studying financial markets and instruments. The team serves as a hub for quantitative research, risk assessment, and financial modelling using computational tools leveraging mathematical techniques to develop innovative strategies for investment, portfolio management, and risk mitigation.
