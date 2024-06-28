@@ -3,7 +3,7 @@ Medellin, Metropolitan Area, Colombia.
 
 
 ## Education
-Master in Applied Mathematics | EAFIT University, Medellin | January 2024 – Present
+- Master in Applied Mathematics | EAFIT University, Medellin | January 2024 – Present
 
 
 
