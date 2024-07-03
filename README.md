@@ -1,7 +1,10 @@
 # About me
 **Medellin, Metropolitan Area, Colombia.**
 
-Data Scientist well versed in Mathematical Modeling and Data Science.
+Data scientist well versed in mathematical modeling and data science dedicated to leveraging data-driven insights to drive real-world business problems using strong analytical skills, understanding of mathematical modeling techniques, and proficiency in data science methodologies.
+
+I have been responsible for analyzing complex datasets, developing predictive models, and providing actionable insights to support strategic decision-making.
+
 
 [<img title="linkedin" alt="linkedin" src="/assets/images/linkedin.png" style="width:25px;height:25px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
 [<img title="github" alt="github" src="/assets/images/github.png" style="width:25px;height:25px;">](https://github.com/JuanCamiloOlaya)
