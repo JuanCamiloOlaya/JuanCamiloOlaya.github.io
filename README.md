@@ -1,7 +1,7 @@
 # About me
 **Medellin, Metropolitan Area, Colombia.**
 
-Data Scientist well well versed in Mathematical Modeling and Data Science.
+Data Scientist well versed in Mathematical Modeling and Data Science.
 
 [<img title="linkedin" alt="linkedin" src="/assets/images/linkedin.png" style="width:25px;height:25px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
 [<img title="github" alt="github" src="/assets/images/github.png" style="width:25px;height:25px;">](https://github.com/JuanCamiloOlaya)
@@ -38,7 +38,7 @@ Data Scientist well well versed in Mathematical Modeling and Data Science.
 - Estimation frameworks for covariance matrix in portfolio analysis.
 - Fiscal standards.
 
-## Organizations
+## Organizations/Contributions
 - [Quantitative Finance Laboratory](https://github.com/QuantitativeFinanceLab)
 
 The Quantitative Finance Laboratory is a research and analysis facility studying financial markets and instruments. The team serves as a hub for quantitative research, risk assessment, and economic modelling using computational tools leveraging mathematical techniques to develop innovative strategies for investment, portfolio management, and risk mitigation.
