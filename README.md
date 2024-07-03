@@ -3,9 +3,6 @@
 
 Data scientist well versed in mathematical modeling and data science dedicated to leveraging data-driven insights to drive real-world business problems using strong analytical skills, understanding of mathematical modeling techniques, and proficiency in data science methodologies.
 
-I have been responsible for analyzing complex datasets, developing predictive models, and providing actionable insights to support strategic decision-making.
-
-
 [<img title="linkedin" alt="linkedin" src="/assets/images/linkedin.png" style="width:25px;height:25px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
 [<img title="github" alt="github" src="/assets/images/github.png" style="width:25px;height:25px;">](https://github.com/JuanCamiloOlaya)
 [<img title="mail" alt="mail" src="/assets/images/email.png" style="width:25px;height:25px;">](mailto:jcolayam@outlook.com?subject=Test)
@@ -18,6 +15,8 @@ I have been responsible for analyzing complex datasets, developing predictive mo
 
 ## Work Experience
 **Data Scientist @ Grupo Éxito - Assortment and Planogramming Direction (_April 2021 – Present_)**
+-I have been responsible for analyzing complex datasets, developing predictive models, and providing actionable insights to support strategic decision-making.
+
 - Created and deployed numerous programs to enhance the organisation's product assortment. Reached a wide spectrum of initiatives, including in-depth customer analysis, innovative methodologies for optimizing commercial spaces, and advanced algorithms for assessing product substitutability. Automated workflow designed to increase team productivity, quantified by a reduction in execution time. Developed KPIs to enrich analysis for decision-making.
 
 - automate a boring report
