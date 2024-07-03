@@ -1,9 +1,11 @@
 # About me
 Medellin, Metropolitan Area, Colombia.
 
-I'm an economist from the EAFIT university interested in mathematics, statistics, econometrics, linear algebra, and using this knowledge with technological tools. Consequently, I like programming because it's a beautiful mechanics to solve real-world problems.
+I'm an economist from EAFIT University, and I'm interested in mathematics, statistics, econometrics, and linear algebra. I use this knowledge with technological tools. Consequently, I like programming because it's a beautiful mechanics that solves real-world problems.
 
 An economist who has redirected his professional development to work in the data world with +4 years of experience developing systems for data-based decision-making consisting of querying, analysis, description, modelling, and visualisation of data and skilled at improving efficiency through task automation, system design and data modelling.
+
+[Download CV]()
 
 ## Education
 - M.S., Applied Mathematics. EAFIT University (*January 2024 – Present*).
