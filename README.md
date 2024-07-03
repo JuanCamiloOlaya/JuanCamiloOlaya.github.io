@@ -5,6 +5,8 @@ I'm an economist from EAFIT University, and I'm interested in mathematics, stati
 
 An economist who has redirected his professional development to work in the data world with +4 years of experience developing systems for data-based decision-making consisting of querying, analysis, description, modelling, and visualisation of data and skilled at improving efficiency through task automation, system design and data modelling.
 
+[<img title="linkedin" alt="linkedin" src="/_assets/linkedin.png" style="width:25px;height:25px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
+[<img title="github" alt="github" src="/_assets/github.png" style="width:25px;height:25px;">](https://github.com/JuanCamiloOlaya)
 [Download CV]()
 
 ## Education
