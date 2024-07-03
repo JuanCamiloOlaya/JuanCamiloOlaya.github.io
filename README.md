@@ -15,6 +15,7 @@ Data scientist well versed in mathematical modeling and data science dedicated t
 
 ## Work Experience
 **Data Scientist @ Grupo Éxito - Assortment and Planogramming Direction (_April 2021 – Present_)**
+
 -I have been responsible for analyzing complex datasets, developing predictive models, and providing actionable insights to support strategic decision-making.
 
 - Created and deployed numerous programs to enhance the organisation's product assortment. Reached a wide spectrum of initiatives, including in-depth customer analysis, innovative methodologies for optimizing commercial spaces, and advanced algorithms for assessing product substitutability. Automated workflow designed to increase team productivity, quantified by a reduction in execution time. Developed KPIs to enrich analysis for decision-making.
