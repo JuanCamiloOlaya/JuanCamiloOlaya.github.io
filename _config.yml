@@ -3,3 +3,5 @@ logo: /assets/images/ai_photo.jpg
 description: Economist and Data Nerd
 show_downloads: false
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
