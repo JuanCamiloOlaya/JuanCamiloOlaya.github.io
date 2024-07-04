@@ -26,10 +26,6 @@ Economist well versed in mathematical modelling and data science dedicated to le
 - Designed an anomaly detection system using Natural Language Processing (NLP) to identify double promotions on the company website, improving the virtual product offer.
 - Participated in evaluating offers' impact on appliance category sales.
 
-## Interests
-- Mathematicaoptimisationon.
-- Statistical learning theory.
-
 ## Technical Skills
 - **Software:** Visual Studio Code, Version control system, SQL, Excel.
 - **Programming Languages:** Python, R/RStudio.
