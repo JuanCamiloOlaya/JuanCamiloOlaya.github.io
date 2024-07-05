@@ -27,8 +27,8 @@ Economist well versed in mathematical modelling and data science dedicated to le
 - Participated in evaluating offers' impact on appliance category sales.
 
 ## Technical Skills
-- **Software:** Version control system, SQL, Excel.
-- **Programming Languages:** Python, R/RStudio.
+- **Software:** Version control system, Excel.
+- **Programming Languages:** Python, R/RStudio, SQL.
 - **Frameworks:** Streamlit, Shiny.
 - **Visualization:** Power BI.
 
