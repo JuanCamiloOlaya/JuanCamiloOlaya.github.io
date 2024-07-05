@@ -15,12 +15,7 @@ Economist well versed in mathematical modelling and data science dedicated to le
 
 ## Work Experience
 **Data Scientist @ Grupo Éxito - Assortment and Planogramming Direction (_April 2021 – Present_)**
-
-- Responsible for analysing complex datasets, developing predictive models, and providing actionable insights to support strategic decision-making.
-
-- Created and deployed numerous programs to enhance the organisation's product assortment. Reached a wide spectrum of initiatives, including in-depth customer analysis, innovative methodologies fooptimisingng commercial spaces, and advanced algorithms for assessing product substitutability. Automated workflow designed to increase team productivity, quantified by a reduction in execution time. Developed KPIs to enrich analysis for decision-making.
-
-- automate a boring report
+- Business processes automation (BPA) -reports, consultation and information flow- to increase team productivity, quantified by a reduction in execution time.
 
 **Internship as Data Scientist @ Grupo Éxito - Digital Analytics Direction (_June 2020 – January 2021_)**
 - Designed an anomaly detection system using Natural Language Processing (NLP) to identify double promotions on the company website, improving the virtual product offer.
