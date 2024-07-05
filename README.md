@@ -3,9 +3,9 @@
 
 Economist well versed in mathematical modelling and data science dedicated to leveraging data-driven insights to drive real-world business problems using solid analytical skills.
 
-[<img title="linkedin" alt="linkedin" src="/assets/images/linkedin.png" style="width:25px;height:25px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
-[<img title="github" alt="github" src="/assets/images/github.png" style="width:25px;height:25px;">](https://github.com/JuanCamiloOlaya)
-[<img title="mail" alt="mail" src="/assets/images/email.png" style="width:25px;height:25px;">](mailto:jcolayam@outlook.com?subject=Test)
+[<img title="linkedin" alt="linkedin" src="/assets/images/linkedin.png" style="width:30px;height:30px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
+[<img title="github" alt="github" src="/assets/images/github.png" style="width:30px;height:30px;">](https://github.com/JuanCamiloOlaya)
+[<img title="mail" alt="mail" src="/assets/images/email.png" style="width:30px;height:30px;">](mailto:jcolayam@outlook.com?subject=Test)
 
 [Download CV]()
 
@@ -18,7 +18,7 @@ Economist well versed in mathematical modelling and data science dedicated to le
 
 - Responsible for analysing complex datasets, developing predictive models, and providing actionable insights to support strategic decision-making.
 
-- Created and deployed numerous programs to enhance the organisation's's product assortment. Reached a wide spectrum of initiatives, including in-depth customer analysis, innovative methodologies fooptimisingng commercial spaces, and advanced algorithms for assessing product substitutability. Automated workflow designed to increase team productivity, quantified by a reduction in execution time. Developed KPIs to enrich analysis for decision-making.
+- Created and deployed numerous programs to enhance the organisation's product assortment. Reached a wide spectrum of initiatives, including in-depth customer analysis, innovative methodologies fooptimisingng commercial spaces, and advanced algorithms for assessing product substitutability. Automated workflow designed to increase team productivity, quantified by a reduction in execution time. Developed KPIs to enrich analysis for decision-making.
 
 - automate a boring report
 
@@ -37,7 +37,7 @@ Economist well versed in mathematical modelling and data science dedicated to le
 - Estimation frameworks for covariance matrix in portfolio analysis.
 - Fiscal standards.
 
-## Organisationsns/Contributions
+## Organisations/Contributions
 - [Quantitative Finance Laboratory](https://github.com/QuantitativeFinanceLab)
 
 The Quantitative Finance Laboratory is a research and analysis facility studying financial markets and instruments. The team serves as a hub for quantitative research, risk assessment, and economic modelling using computational tools leveraging mathematical techniques to develop innovative strategies for investment, portfolio management, and risk mitigation.
