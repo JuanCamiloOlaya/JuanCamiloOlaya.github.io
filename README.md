@@ -27,9 +27,9 @@ Economist well versed in mathematical modelling and data science dedicated to le
 - Participated in evaluating offers' impact on appliance category sales.
 
 ## Technical Skills
-- **Software:** Version control system, Excel.
-- **Programming Languages:** Python, R/RStudio, SQL.
-- **Frameworks:** Streamlit, Shiny.
+- **Software:** Version Control System, Excel.
+- **Programming Languages:** Python, R, SQL.
+- **Frameworks:** Streamlit, Shiny, Machine Learning (TensorFlow, Scikit-Learn, R Torch).
 - **Visualization:** Power BI.
 
 ## Projects
@@ -44,4 +44,4 @@ The Quantitative Finance Laboratory is a research and analysis facility studying
 
 ## Currently learning
 - **Microsoft Certified:** Azure Fundamentals (Azure 900).
-- Apache Spark.
+- **Big data:** Hadoop, Spark.
