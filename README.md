@@ -7,7 +7,7 @@ Economist well versed in mathematical modelling and data science dedicated to le
 [<img title="github" alt="github" src="/assets/images/github.png" style="width:30px;height:30px;">](https://github.com/JuanCamiloOlaya)
 [<img title="mail" alt="mail" src="/assets/images/email.png" style="width:30px;height:30px;">](mailto:juancamiloolaya83@gmail.com?subject=Test)
 
-[Download CV](/assets/docs/cv_jcom.pdf)
+[Download CV](https://github.com/JuanCamiloOlaya/JuanCamiloOlaya.github.io/blob/main/assets/docs/cv_jcom.pdf)
 
 ## Education
 - M.S., Applied Mathematics. EAFIT University (*January 2024 – Present*).
