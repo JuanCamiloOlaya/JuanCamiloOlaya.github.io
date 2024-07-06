@@ -15,11 +15,17 @@ Economist well versed in mathematical modelling and data science dedicated to le
 
 ## Work Experience
 **Data Scientist @ Grupo Éxito - Assortment and Planogramming Direction (_April 2021 – Present_)**
-- Business processes automation (BPA) -reports, consultation and information flow- to increase team productivity, quantified by a reduction in execution time.
+- Applying techniques to business process automation (BPA) to increase team productivity is quantified by reducing execution time.
+- Develop, implement, and maintain a mathematical model for optimising the use of display spaces in physical stores.
+- Responsible for analysing large transactional datasets to extract meaningful patterns about customer behaviour and segmentation.
+- Collaborate with cross-functional teams to understand business requirements and translate them into data-driven solutions, developing KPIs to enrich analysis for decision-making.
+- Develop advanced algorithms for assessing product substitutability or complementary.
+- Communicate findings effectively to both technical and non-technical stakeholders.
+- Create and deploy numerous programs to enhance the organisation's product assortment.
 
 **Internship as Data Scientist @ Grupo Éxito - Digital Analytics Direction (_June 2020 – January 2021_)**
 - Designed an anomaly detection system using Natural Language Processing (NLP) to identify double promotions on the company website, improving the virtual product offer.
-- Participated in evaluating offers' impact on appliance category sales.
+- Participated in evaluating the impact of offers on sales within the small appliance category.
 
 ## Technical Skills
 - **Software:** Version Control System, Excel.
