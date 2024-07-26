@@ -3,9 +3,9 @@
 
 Economist well versed in mathematical modelling and data science dedicated to leveraging data-driven insights to drive real-world business problems using solid analytical skills.
 
-[<img title="linkedin" alt="linkedin" src="/assets/images/linkedin.png" style="width:30px;height:30px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
-[<img title="github" alt="github" src="/assets/images/github.png" style="width:30px;height:30px;">](https://github.com/JuanCamiloOlaya)
 [<img title="mail" alt="mail" src="/assets/images/email.png" style="width:30px;height:30px;">](mailto:juancamiloolaya83@gmail.com?subject=Test)
+[<img title="linkedin" alt="linkedin" src="/assets/images/linkedin_black.png" style="width:30px;height:30px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
+[<img title="github" alt="github" src="/assets/images/github.png" style="width:30px;height:30px;">](https://github.com/JuanCamiloOlaya)
 
 [Download CV](/assets/docs/cv_jcom.pdf)
 
