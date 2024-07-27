@@ -1,7 +1,7 @@
-[<img title="mail" alt="mail" src="/assets/images/email.png" style="width:30px;height:30px;">](mailto:juancamiloolaya83@gmail.com?subject=Test)
-[<img title="linkedin" alt="linkedin" src="/assets/images/linkedin_black.png" style="width:30px;height:30px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
-[<img title="github" alt="github" src="/assets/images/github.png" style="width:30px;height:30px;">](https://github.com/JuanCamiloOlaya)
-[<img title="github" alt="github" src="/assets/images/cv_logo.png" style="width:30px;height:30px;">](/assets/docs/cv_jcom.pdf)
+[<img title="Mail" alt="mail" src="/assets/images/email.png" style="width:30px;height:30px;">](mailto:juancamiloolaya83@gmail.com?subject=Test)
+[<img title="LinkedIn" alt="linkedin" src="/assets/images/linkedin_black.png" style="width:30px;height:30px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
+[<img title="GitHub" alt="github" src="/assets/images/github.png" style="width:30px;height:30px;">](https://github.com/JuanCamiloOlaya)
+[<img title="CV" alt="cv" src="/assets/images/cv_logo.png" style="width:30px;height:30px;">](/assets/docs/cv_jcom.pdf)
 
 ## About me
 **Medellin, Metropolitan Area, Colombia.**
@@ -39,7 +39,7 @@ Economist well versed in mathematical modelling and data science dedicated to le
 - **Estimation frameworks for covariance matrix in portfolio analysis:** The purpose is to compare multiple covariance matrix estimators of stock returns with their applications to portfolio selection.
 
 ## Organisations/Contributions
-[<img title="github" alt="github" src="/assets/images/link_logo.png" style="width:20px;height:20px;">](https://github.com/QuantitativeFinanceLab) **Quantitative Finance Laboratory**
+[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">](https://github.com/QuantitativeFinanceLab) **Quantitative Finance Laboratory**
 
 The Quantitative Finance Laboratory is a research and analysis facility studying financial markets and instruments. The team serves as a hub for quantitative research, risk assessment, and economic modelling using computational tools leveraging mathematical techniques to develop innovative strategies for investment, portfolio management, and risk mitigation.
 
