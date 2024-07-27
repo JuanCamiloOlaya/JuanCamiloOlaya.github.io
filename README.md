@@ -39,7 +39,7 @@ Economist well versed in mathematical modelling and data science dedicated to le
 - **Estimation frameworks for covariance matrix in portfolio analysis:** The purpose is to compare multiple covariance matrix estimators of stock returns with their applications to portfolio selection.
 
 # Organisations/Contributions
-[<img title="github" alt="github" src="/assets/images/link_logo.png" style="width:30px;height:30px;">](https://github.com/QuantitativeFinanceLab) Quantitative Finance Laboratory
+[<img title="github" alt="github" src="/assets/images/link_logo.png" style="width:20px;height:20px;">](https://github.com/QuantitativeFinanceLab) **Quantitative Finance Laboratory**
 
 The Quantitative Finance Laboratory is a research and analysis facility studying financial markets and instruments. The team serves as a hub for quantitative research, risk assessment, and economic modelling using computational tools leveraging mathematical techniques to develop innovative strategies for investment, portfolio management, and risk mitigation.
 
