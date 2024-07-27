@@ -35,7 +35,7 @@ Economist well versed in mathematical modelling and data science dedicated to le
 ## Projects
 <sup>**The projects are private because they are being reviewed. You will be able to see the title and a short description of them**
 
-- **Restricted forecast:** Support conventional series models, including information external to the model, through linear constraints to avoid wasting additional information.
+- **Restricted forecast:** Support conventional time series models, including information external to the model, through linear constraints to avoid wasting additional information.
 - **Estimation frameworks for covariance matrix in portfolio analysis:** The purpose is to compare multiple covariance matrix estimators of stock returns with their applications to portfolio selection.
 
 ## Organisations/Contributions
@@ -43,6 +43,6 @@ Economist well versed in mathematical modelling and data science dedicated to le
 
 The Quantitative Finance Laboratory is a research and analysis facility studying financial markets and instruments. The team serves as a hub for quantitative research, risk assessment, and economic modelling using computational tools leveraging mathematical techniques to develop innovative strategies for investment, portfolio management, and risk mitigation.
 
-## Currently learning
+## Currently Learning
 - **Microsoft Certified:** Azure Fundamentals (Azure 900).
 - **Big data:** Hadoop, Spark.
