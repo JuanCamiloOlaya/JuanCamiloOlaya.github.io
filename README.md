@@ -33,10 +33,7 @@ Economist well versed in mathematical modelling and data science dedicated to le
 - **Visualization:** Power BI.
 
 ## Projects
-<sup **The projects are private because they are being reviewed. You will be able to see the title and a short description of them** />
-
-- **Restricted forecast:** Support conventional time series models, including information external to the model, through linear constraints to avoid wasting additional information.
-- **Estimation frameworks for covariance matrix in portfolio analysis:** The purpose is to compare multiple covariance matrix estimators of stock returns with their applications to portfolio selection.
+**Comming soon**
 
 ## Organisations/Contributions
 [<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">](https://github.com/QuantitativeFinanceLab) **Quantitative Finance Laboratory**
