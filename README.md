@@ -33,7 +33,7 @@ Economist well versed in mathematical modelling and data science dedicated to le
 - **Visualization:** Power BI.
 
 ## Projects
-**Comming soon**
+**Coming soon**
 
 ## Organisations/Contributions
 [<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">](https://github.com/QuantitativeFinanceLab) **Quantitative Finance Laboratory**
