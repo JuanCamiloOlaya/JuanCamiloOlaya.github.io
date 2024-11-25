@@ -13,7 +13,7 @@ Economist well versed in mathematical modelling and data science dedicated to le
 - B.A., Economics. EAFIT University (*January 2017 – September 2021*).
 
 ## Work Experience
-**Data Scientist @ Grupo Éxito - Assortment and Planogramming Direction (_April 2021 – Present_)**
+**Data Scientist @ Grupo Éxito - Assortment and Planogramming Direction (_April 2021 – September 2024_)**
 - Applying techniques to business process automation (BPA) to increase team productivity is quantified by reducing execution time.
 - Develop, implement, and maintain a mathematical model for optimising the use of display spaces in physical stores.
 - Responsible for analysing large transactional datasets to extract meaningful patterns about customer behaviour and segmentation.
@@ -33,7 +33,7 @@ Economist well versed in mathematical modelling and data science dedicated to le
 - **Visualization:** Power BI.
 
 ## Projects
-**Coming soon**
+- **multi-trip Vehicle Routing Problem with Time Windows (mtVRPTW):**
 
 ## Organisations/Contributions
 [<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">](https://github.com/QuantitativeFinanceLab) **Quantitative Finance Laboratory**
