@@ -13,9 +13,8 @@ Economist well versed in mathematical modelling and data science dedicated to le
 - B.A., Economics. EAFIT University, 2021.
 
 ## Work Experience
-**Data Scientist @ Grupo Éxito - Assortment and Planogramming Direction (_April 2021 – September 2024_)**
-
-**Internship as Data Scientist @ Grupo Éxito - Directorate of Analytics (_June 2020 – January 2021_)**
+- Data Scientist @ Grupo Éxito - Assortment and Planogramming Direction (_April 2021 – September 2024_)
+- Internship as Data Scientist @ Grupo Éxito - Directorate of Analytics (_June 2020 – January 2021_)
 
 ## Technical Skills
 - **Software:** Version Control System, Excel.
