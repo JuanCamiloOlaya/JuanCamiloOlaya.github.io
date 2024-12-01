@@ -23,8 +23,10 @@ Economist well versed in mathematical modelling and data science dedicated to le
 - **Visualization:** Power BI, Tableau.
 - **Cloud computing:** Azure.
 
-## Projects
-- **multi-trip Vehicle Routing Problem with Time Windows (mtVRPTW):**
+## Projects (comming soon)
+[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **Essentials-QuantFinance:**
+
+[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **mtVRPTW:**
 
 ## Organisations/Contributions
 [<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">](https://github.com/QuantitativeFinanceLab) **Quantitative Finance Laboratory**
