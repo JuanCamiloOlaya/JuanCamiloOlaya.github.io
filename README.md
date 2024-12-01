@@ -6,7 +6,7 @@
 ## About me
 **Medellin, Metropolitan Area, Colombia.**
 
-Economist well versed in mathematical modelling and data science dedicated to leveraging data-driven insights to drive real-world business problems using solid analytical skills.
+Economist specialised in mathematical modelling and data science applied to business problems with experience in the implementation of advanced analytical solutions, process automation and design of predictive models using technological tools.
 
 ## Education
 - M.S., Applied Mathematics. EAFIT University, Present.
