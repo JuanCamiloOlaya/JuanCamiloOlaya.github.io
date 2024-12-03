@@ -24,7 +24,13 @@ Economist specialised in mathematical modelling and data science applied to busi
 - **Cloud computing:** Azure.
 
 ## Projects
-[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **Essentials-QuantFinance:** Essential analysis covering the fundamental concepts for financial analysis using Yahoo Finance's API.
+[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **Essentials-QuantFinance:** This repository contains a Python-based project for practising essential financial analysis. It explores key financial metrics and tools while analysing stock market data. The project focuses on simplicity and accessibility, making it ideal for beginners in finance-related data science roles.
+
+The main components include:
+
+- A script to fetch historical stock data for selected tickers over a specified time frame using the yfinance library.
+- A Jupyter Notebook demonstrating key calculations such as returns, volatility, and correlation between stocks.
+- Functions to create insightful charts like time-series plots and comparative analyses.
 
 [<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **mtVRPTW:**
 
