@@ -6,7 +6,7 @@
 ## About me
 **Medellin, Metropolitan Area, Colombia.**
 
-Economist specialised in mathematical modelling and data science applied to business problems with experience in the implementation of advanced analytical solutions, process automation and design of predictive models using technological tools.
+Economist specialised in mathematical modelling and data science applied to business problems, with experience implementing advanced analytical solutions, process automation, and designing predictive models using technological tools.
 
 ## Education
 - M.S., Applied Mathematics. EAFIT University, Present.
@@ -20,11 +20,11 @@ Economist specialised in mathematical modelling and data science applied to busi
 - **Software:** Version Control System, Excel.
 - **Programming Languages:** Python, R, SQL.
 - **Frameworks:** Streamlit, Shiny, Machine Learning (TensorFlow, Scikit-Learn, R Torch).
-- **Visualization:** Power BI, Tableau.
+- **Visualisation:** Power BI, Tableau.
 - **Cloud computing:** Azure.
 
-## Projects (coming soon)
-[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **Essentials-QuantFinance:**
+## Projects
+[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **Essentials-QuantFinance:** Essential analysis covering the fundamental concepts for financial analysis using Yahoo Finance's API.
 
 [<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **mtVRPTW:**
 
