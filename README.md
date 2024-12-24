@@ -32,12 +32,14 @@ The main components include:
 - A Jupyter Notebook demonstrating key calculations such as returns, volatility, and correlation between stocks.
 - Functions to create insightful charts like time-series plots and comparative analyses.
 
-[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **mtVRPTW:**
+**Coming soon:**
+
+[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **mtVRPTW:** Heuristic and metaheuristic algorithms to solve a mathematical formulation for multi-trip Vehicle Routing Problem with Time Windows (mtVRPTM) using Solomon's 100-customer benchmarks.
 
 ## Organisations/Contributions
 [<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">](https://github.com/QuantitativeFinanceLab) **Quantitative Finance Laboratory**
 
-The Quantitative Finance Laboratory is a research and analysis facility studying financial markets and instruments. The team serves as a hub for quantitative research, risk assessment, and economic modelling using computational tools leveraging mathematical techniques to develop innovative strategies for investment, portfolio management, and risk mitigation.
+The Quantitative Finance Laboratory is a research and analysis facility that studies financial markets and instruments. The team serves as a hub for quantitative research, risk assessment, and economic modelling. It uses computational tools and mathematical techniques to develop innovative strategies for investment, portfolio management, and risk mitigation.
 
 ## Career options
 - Data Scientist / Senior Data Analyst.
