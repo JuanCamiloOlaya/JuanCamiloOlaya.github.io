@@ -46,7 +46,3 @@ The Quantitative Finance Laboratory is a research and analysis facility that stu
 - Data Engineer / Analytical Solutions Developer.
 - Operational Research Specialist.
 - Quantitative Analyst (Quant) / Computational Finance Specialist.
-
-## Currently Learning
-- **Microsoft Certified:** Azure Fundamentals (Azure 900).
-- **Big data:** Hadoop, Spark.
