@@ -20,7 +20,7 @@ Economist specialised in mathematical modelling and data science applied to busi
 - **Software:** Version Control System, Excel.
 - **Programming Languages:** Python, R, SQL.
 - **Frameworks:** Streamlit, Shiny, Machine Learning (TensorFlow, Scikit-Learn, R Torch).
-- **Visualisation:** Power BI, Tableau.
+- **Visualisation:** Power BI.
 - **Cloud computing:** Azure.
 
 ## Projects
