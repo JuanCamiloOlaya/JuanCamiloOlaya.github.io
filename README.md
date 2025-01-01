@@ -17,11 +17,12 @@ Economist specialised in mathematical modelling and data science applied to busi
 - Internship as Data Scientist @ Grupo Éxito - Directorate of Analytics (_June 2020 – January 2021_)
 
 ## Technical Skills
-- **Software:** Version Control System, Excel.
+- **Software:** Git, Excel.
 - **Programming Languages:** Python, R, SQL.
-- **Frameworks:** Streamlit, Shiny, Machine Learning (TensorFlow, Scikit-Learn, R Torch).
+- **Frameworks:** Streamlit, Shiny.
+- **Machine Learning:** TensorFlow, Scikit-Learn, R Torch.
 - **Visualisation:** Power BI.
-- **Cloud computing:** Azure.
+- **Cloud computing:** GitHub, Azure, Databricks.
 
 ## Projects
 [<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">](https://github.com/JuanCamiloOlaya/Essentials-QuantFinance) **Essentials-QuantFinance:** This repository contains a Python-based project for practising essential financial analysis. It explores key financial metrics and tools while analysing stock market data. The project focuses on simplicity and accessibility, making it ideal for beginners in finance-related data science roles.
