@@ -44,6 +44,6 @@ The Quantitative Finance Laboratory is a research and analysis facility that stu
 
 ## Career options
 - Data Scientist / Senior Data Analyst.
-- Data Engineer / Analytical Solutions Developer.
+- Analytical Solutions Developer.
 - Operational Research Specialist.
 - Quantitative Analyst (Quant) / Computational Finance Specialist.
