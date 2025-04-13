@@ -43,7 +43,10 @@ The main components include:
 The Quantitative Finance Laboratory is a research and analysis facility that studies financial markets and instruments. The team serves as a hub for quantitative research, risk assessment, and economic modelling. It uses computational tools and mathematical techniques to develop innovative strategies for investment, portfolio management, and risk mitigation.
 
 ## Career options
-- Data Scientist / Senior Data Analyst.
-- Analytical Solutions Developer.
-- Operational Research Specialist.
-- Quantitative Analyst (Quant) / Computational Finance Specialist.
+<img title="Link" alt="enlace" src="/assets/images/job_logo.png" style="width:20px;height:20px;"> **Data Scientist / Senior Data Analyst:** Experience applying statistical modelling, exploratory analysis and machine learning techniques to extract value from large volumes of data. Analytical thinking with programming and visualisation skills to transform complex data into clear information for strategic decision-making.
+
+<img title="Link" alt="enlace" src="/assets/images/job_logo.png" style="width:20px;height:20px;"> **Analytical Solutions Developer:** Hybrid profile between applied mathematics, programming and business knowledge to contribute to the development of tools that optimise performance and operational efficiency through customised analytical solutions.
+
+<img title="Link" alt="enlace" src="/assets/images/job_logo.png" style="width:20px;height:20px;"> **Operational Research Specialist:** Experience in optimisation, mathematical modelling and decision-making under result-oriented constraints to develop models that improve resource allocation, logistical planning or activity scheduling.
+
+<img title="Link" alt="enlace" src="/assets/images/job_logo.png" style="width:20px;height:20px;"> **Quantitative Analyst (Quant) / Computational Finance Specialist:** Quantitative training and understanding of financial markets by developing predictive models and data-driven investment strategies. Knowledge of advanced mathematical techniques, programming and risk analysis to build tools that provide competitive advantages in the financial sector.
