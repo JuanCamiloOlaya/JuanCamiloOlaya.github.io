@@ -13,6 +13,7 @@ Economist with a strong background in applied mathematics and data science, spec
 - B.A., Economics. EAFIT University, 2021.
 
 ## Work Experience
+- Senior Analytics Analyst @ GroupM - Data & Analytics (_May 2025 - present_)
 - Data Scientist @ Grupo Éxito - Assortment and Planogramming Direction (_April 2021 – September 2024_)
 - Internship as Data Scientist @ Grupo Éxito - Directorate of Analytics (_June 2020 – January 2021_)
 
