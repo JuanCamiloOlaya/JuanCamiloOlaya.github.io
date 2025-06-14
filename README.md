@@ -20,7 +20,7 @@ Economist with a strong background in applied mathematics and data science, spec
 ## Technical Skills
 - **Programming:** Python, R, SQL.
 - **Visualisation:** Power BI.
-- **Optimisation & Mathematical Modelling:** SciPy, NumPy, Gurobi, OR-Tools.
+- **Optimisation & Mathematical Modelling:** SciPy, NumPy, Gurobi.
 - **Machine Learning & AI:** TensorFlow, Scikit-Learn, R Torch.
 - **Frameworks:** Streamlit, Shiny.
 - **Cloud & DevOps:** Azure, Git, Docker.
