@@ -1,7 +1,7 @@
-[<img title="Mail" alt="mail" src="/assets/images/email.png" style="width:30px;height:30px;">](mailto:juancamiloolaya83@gmail.com?subject=Test)
-[<img title="LinkedIn" alt="linkedin" src="/assets/images/linkedin_black.png" style="width:30px;height:30px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
-[<img title="GitHub" alt="github" src="/assets/images/github.png" style="width:30px;height:30px;">](https://github.com/JuanCamiloOlaya)
-[<img title="CV" alt="cv" src="/assets/images/cv_logo.png" style="width:30px;height:30px;">](/assets/docs/CV_English.pdf)
+[<img title="Mail" alt="mail" src="/assets/images/email.png" style="width:50px;height:50px;">](mailto:juancamiloolaya83@gmail.com?subject=Test)
+[<img title="LinkedIn" alt="linkedin" src="/assets/images/linkedin_black.png" style="width:50px;height:50px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
+[<img title="GitHub" alt="github" src="/assets/images/github.png" style="width:50px;height:50px;">](https://github.com/JuanCamiloOlaya)
+[<img title="CV" alt="cv" src="/assets/images/cv_logo.png" style="width:50px;height:50px;">](/assets/docs/CV_English.pdf)
 
 ## About me
 **Medellin, Metropolitan Area, Colombia.**
@@ -36,7 +36,7 @@ The main components include:
 
 **Coming soon:**
 
-[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **mtVRPTW:** Heuristic and metaheuristic algorithms to solve a mathematical formulation for multi-trip Vehicle Routing Problem with Time Windows (mtVRPTM) using Solomon's 100-customer benchmarks.
+[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **mtVRPTW:** Heuristic and metaheuristic algorithms to solve a mathematical formulation for the multi-trip Vehicle Routing Problem with Time Windows (mtVRPTM) using Solomon's 100-customer benchmarks.
 
 ## Organisations/Contributions
 [<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">](https://github.com/QuantitativeFinanceLab) **Quantitative Finance Laboratory**
@@ -49,5 +49,3 @@ The Quantitative Finance Laboratory is a research and analysis facility that stu
 <img title="Link" alt="enlace" src="/assets/images/job_logo.png" style="width:20px;height:20px;"> **Analytical Solutions Developer:** Hybrid profile between applied mathematics, programming and business knowledge to contribute to the development of tools that optimise performance and operational efficiency through customised analytical solutions.
 
 <img title="Link" alt="enlace" src="/assets/images/job_logo.png" style="width:20px;height:20px;"> **Operational Research Specialist:** Experience in optimisation, mathematical modelling and decision-making under result-oriented constraints to develop models that improve resource allocation, logistical planning or activity scheduling.
-
-<img title="Link" alt="enlace" src="/assets/images/job_logo.png" style="width:20px;height:20px;"> **Quantitative Analyst (Quant) / Computational Finance Specialist:** Quantitative training and understanding of financial markets by developing predictive models and data-driven investment strategies. Knowledge of advanced mathematical techniques, programming and risk analysis to build tools that provide competitive advantages in the financial sector.
