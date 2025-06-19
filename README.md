@@ -1,7 +1,7 @@
-[<img title="Mail" alt="mail" src="/assets/images/email.png" style="width:50px;height:50px;">](mailto:juancamiloolaya83@gmail.com?subject=Test)
-[<img title="LinkedIn" alt="linkedin" src="/assets/images/linkedin_black.png" style="width:50px;height:50px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
-[<img title="GitHub" alt="github" src="/assets/images/github.png" style="width:50px;height:50px;">](https://github.com/JuanCamiloOlaya)
-[<img title="CV" alt="cv" src="/assets/images/cv_logo.png" style="width:50px;height:50px;">](/assets/docs/CV_English.pdf)
+[<img title="Mail" alt="mail" src="/assets/images/email.png" style="width:30px;height:30px;">](mailto:juancamiloolaya83@gmail.com?subject=Test)
+[<img title="LinkedIn" alt="linkedin" src="/assets/images/linkedin_black.png" style="width:30px;height:30px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
+[<img title="GitHub" alt="github" src="/assets/images/github.png" style="width:30px;height:30px;">](https://github.com/JuanCamiloOlaya)
+[<img title="CV" alt="cv" src="/assets/images/cv_logo.png" style="width:30px;height:30px;">](/assets/docs/CV_English.pdf)
 
 ## About me
 **Medellin, Metropolitan Area, Colombia.**
@@ -26,22 +26,14 @@ Economist with a strong background in applied mathematics and data science, spec
 - **Cloud & DevOps:** Azure, Git, Docker.
 
 ## Projects
-[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">](https://github.com/JuanCamiloOlaya/Essentials-QuantFinance) **Essentials-QuantFinance:** This repository contains a Python-based project for practising essential financial analysis. It explores key financial metrics and tools while analysing stock market data. The project focuses on simplicity and accessibility, making it ideal for beginners in finance-related data science roles.
 
-The main components include:
+**The projects are upgrading to homogenise their structure and implement uv as a project and package manager. So the links are not available at the moment.**
 
-- A script to fetch historical stock data for selected tickers over a specified time frame using the yfinance library.
-- A Jupyter Notebook demonstrating key calculations such as returns, volatility, and correlation between stocks.
-- Functions to create insightful charts like time-series plots and comparative analyses.
+[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **Essentials-QuantFinance:** This repository contains a Python-based project for practising essential financial analysis. It explores key financial metrics and tools while analysing stock market data. The project focuses on simplicity and accessibility, making it ideal for beginners in finance-related data science roles.
 
-**Coming soon:**
+[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **Profit-Optimisation:** Price optimisation using a common profit function considering multiple products and their cross-effect (substitution and complementary effects), consumer price sensitivity, products' cost, and inventory/supply constraint.
 
-[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **mtVRPTW:** Heuristic and metaheuristic algorithms to solve a mathematical formulation for the multi-trip Vehicle Routing Problem with Time Windows (mtVRPTM) using Solomon's 100-customer benchmarks.
-
-## Organisations/Contributions
-[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">](https://github.com/QuantitativeFinanceLab) **Quantitative Finance Laboratory**
-
-The Quantitative Finance Laboratory is a research and analysis facility that studies financial markets and instruments. The team serves as a hub for quantitative research, risk assessment, and economic modelling. It uses computational tools and mathematical techniques to develop innovative strategies for investment, portfolio management, and risk mitigation.
+[<img title="Link" alt="enlace" src="/assets/images/link_logo.png" style="width:20px;height:20px;">]() **mtVRPTW:** Metaheuristic algorithms to solve a mathematical formulation for the multi-trip Vehicle Routing Problem with Time Windows (mtVRPTM) using Solomon's 100-customer benchmarks.
 
 ## Career options
 <img title="Link" alt="enlace" src="/assets/images/job_logo.png" style="width:20px;height:20px;"> **Data Scientist / Senior Data Analyst:** Experience applying statistical modelling, exploratory analysis and machine learning techniques to extract value from large volumes of data. Analytical thinking with programming and visualisation skills to transform complex data into clear information for strategic decision-making.
