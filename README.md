@@ -1,7 +1,7 @@
-[<img title="Mail" alt="mail" src="/assets/images/email.png" style="width:30px;height:30px;">](mailto:juancamiloolaya83@gmail.com?subject=Test)
-[<img title="LinkedIn" alt="linkedin" src="/assets/images/linkedin_black.png" style="width:30px;height:30px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
-[<img title="GitHub" alt="github" src="/assets/images/github.png" style="width:30px;height:30px;">](https://github.com/JuanCamiloOlaya)
-[<img title="CV" alt="cv" src="/assets/images/cv_logo.png" style="width:30px;height:30px;">](/assets/docs/CV_English.pdf)
+[<img title="Mail" alt="mail" src="/assets/images/email.png" style="width:40px;height:40px;">](mailto:juancamiloolaya83@gmail.com?subject=Test)
+[<img title="LinkedIn" alt="linkedin" src="/assets/images/linkedin_black.png" style="width:40px;height:40px;">](https://www.linkedin.com/in/juan-camilo-olaya-monsalve-004771242/)
+[<img title="GitHub" alt="github" src="/assets/images/github.png" style="width:40px;height:40px;">](https://github.com/JuanCamiloOlaya)
+[<img title="CV" alt="cv" src="/assets/images/cv_logo.png" style="width:40px;height:40px;">](/assets/docs/CV_English.pdf)
 
 ## About me
 **Medellin, Metropolitan Area, Colombia.**
