@@ -9,8 +9,8 @@
 Economist with a strong background in applied mathematics and data science, specialising in  mathematical  optimisation,  machine  learning,  and  strategic  decision-making. Experienced  in  building  optimisation  models,  predictive  models,  decision-support systems, and AI-driven analytics to solve complex business challenges.
 
 ## Education
-- M.S., Applied Mathematics. EAFIT University, Present.
-- B.A., Economics. EAFIT University, 2021.
+- M.S., Applied Mathematics. Universidad EAFIT, Colombia, Present.
+- B.A., Economics. Universidad EAFIT, Colombia, 2021.
 
 ## Work Experience
 - Senior Analyst @ WPP Media, formerly GroupM - Data & Analytics (_May 2025 - present_)
@@ -19,7 +19,6 @@ Economist with a strong background in applied mathematics and data science, spec
 
 ## Technical Skills
 - **Programming:** Python, R, SQL.
-- **Visualisation:** Power BI.
 - **Optimisation & Mathematical Modelling:** SciPy, NumPy, Gurobi.
 - **Machine Learning & AI:** TensorFlow, Scikit-Learn, R Torch.
 - **Frameworks:** Streamlit, Shiny.
